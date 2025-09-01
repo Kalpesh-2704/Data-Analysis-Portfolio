@@ -32,6 +32,9 @@ Currently, the portfolio highlights my completed projects, and within the next w
 - **Global Electronics Retailer Analysis**  
   Interactive retail sales analysis dashboard with performance KPIs across regions and product categories.
 
+- **Automotive Sales Report**  
+  Power BI dashboard analyzing automotive industry sales performance, revenue trends, and KPIs with interactive visuals.
+
 ---
 
 ## 🛠️ Upcoming Projects
@@ -44,5 +47,3 @@ Currently, the portfolio highlights my completed projects, and within the next w
 **Kalpesh Baria**  
 📧 Email: [kalpeshbaria2704@gmail.com](mailto:kalpeshbaria2704@gmail.com)  
 🔗 Portfolio: [GitHub Profile](https://github.com/Kalpesh-2704)
-# Data-Analysis-Portfolio
-This repository contains my Data Analysis projects including Excel, SQL, Power BI, and Python.
